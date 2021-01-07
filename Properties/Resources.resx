@@ -117,53 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="arabicBa" xml:space="preserve">
+  <data name="arabicBā" xml:space="preserve">
     <value>ب</value>
   </data>
-  <data name="arabicBaDamma" xml:space="preserve">
+  <data name="arabicBāDamma" xml:space="preserve">
     <value>بُ</value>
   </data>
-  <data name="arabicBaDammaTanwin" xml:space="preserve">
+  <data name="arabicBāDammaTanwin" xml:space="preserve">
     <value>بٌ</value>
   </data>
-  <data name="arabicBaFatha" xml:space="preserve">
+  <data name="arabicBāFatha" xml:space="preserve">
     <value>بَ</value>
   </data>
-  <data name="arabicBaFathaTanwin" xml:space="preserve">
+  <data name="arabicBāFathaTanwin" xml:space="preserve">
     <value>بً</value>
   </data>
-  <data name="arabicBaKasra" xml:space="preserve">
+  <data name="arabicBāKasra" xml:space="preserve">
     <value>بِ</value>
   </data>
-  <data name="arabicBaKasraTanwin" xml:space="preserve">
+  <data name="arabicBāKasraTanwin" xml:space="preserve">
     <value>بٍ</value>
   </data>
-  <data name="arabicBaSukuun" xml:space="preserve">
+  <data name="arabicBāSukuun" xml:space="preserve">
     <value>بْ</value>
-  </data>
-  <data name="arabicDschim" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimDamma" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimDammaTanwin" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimFatha" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimFathaTanwin" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimKasra" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimKasraTanwin" xml:space="preserve">
-    <value />
-  </data>
-  <data name="arabicDschimSukuun" xml:space="preserve">
-    <value />
   </data>
   <data name="arabicDāl" xml:space="preserve">
     <value />
@@ -171,19 +147,19 @@
   <data name="arabicDālDamma" xml:space="preserve">
     <value />
   </data>
-  <data name="arabicDālDammaSukuun" xml:space="preserve">
+  <data name="arabicDālDammaTanwin" xml:space="preserve">
     <value />
   </data>
   <data name="arabicDālFatha" xml:space="preserve">
     <value />
   </data>
-  <data name="arabicDālFathaSukuun" xml:space="preserve">
+  <data name="arabicDālFathaTanwin" xml:space="preserve">
     <value />
   </data>
   <data name="arabicDālKasra" xml:space="preserve">
     <value />
   </data>
-  <data name="arabicDālKasraSukuun" xml:space="preserve">
+  <data name="arabicDālKasraTanwin" xml:space="preserve">
     <value />
   </data>
   <data name="arabicDālSukuun" xml:space="preserve">
@@ -204,59 +180,59 @@
   <data name="arabicOne" xml:space="preserve">
     <value>١</value>
   </data>
+  <data name="arabicRā" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāDamma" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāDammaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāFatha" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāFathaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāKasra" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāKasraTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicRāSukuun" xml:space="preserve">
+    <value />
+  </data>
   <data name="arabicSeven" xml:space="preserve">
     <value>٧</value>
   </data>
   <data name="arabicSix" xml:space="preserve">
     <value>٦</value>
   </data>
-  <data name="arabicTa" xml:space="preserve">
-    <value>ت</value>
+  <data name="arabicSīn" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaDamma" xml:space="preserve">
-    <value>تُ</value>
+  <data name="arabicSīnDamma" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaDammaTanwin" xml:space="preserve">
-    <value>تٌ</value>
+  <data name="arabicSīnDammaTanwin" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaFatha" xml:space="preserve">
-    <value>تَ</value>
+  <data name="arabicSīnFatha" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaFathaTanwin" xml:space="preserve">
-    <value>تً</value>
+  <data name="arabicSīnFathaTanwin" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaKasra" xml:space="preserve">
-    <value>تِ</value>
+  <data name="arabicSīnKasra" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaKasraTanwin" xml:space="preserve">
-    <value>تٍ</value>
+  <data name="arabicSīnKasraTanwin" xml:space="preserve">
+    <value />
   </data>
-  <data name="arabicTaSukuun" xml:space="preserve">
-    <value>تْ</value>
-  </data>
-  <data name="arabicTha" xml:space="preserve">
-    <value>ث</value>
-  </data>
-  <data name="arabicThaDamma" xml:space="preserve">
-    <value>ثُ</value>
-  </data>
-  <data name="arabicThaDammaTanwin" xml:space="preserve">
-    <value>ثٌ</value>
-  </data>
-  <data name="arabicThaFatha" xml:space="preserve">
-    <value>ثَ</value>
-  </data>
-  <data name="arabicThaFathaTanwin" xml:space="preserve">
-    <value>ثً</value>
-  </data>
-  <data name="arabicThaKasra" xml:space="preserve">
-    <value>ثِ</value>
-  </data>
-  <data name="arabicThaKasraTanwin" xml:space="preserve">
-    <value>ثٍ</value>
-  </data>
-  <data name="arabicThaSukuun" xml:space="preserve">
-    <value>ثْ</value>
+  <data name="arabicSīnSukuun" xml:space="preserve">
+    <value />
   </data>
   <data name="arabicThree" xml:space="preserve">
     <value>٣</value>
@@ -264,8 +240,104 @@
   <data name="arabicTwo" xml:space="preserve">
     <value>٢</value>
   </data>
+  <data name="arabicTā" xml:space="preserve">
+    <value>ت</value>
+  </data>
+  <data name="arabicTāDamma" xml:space="preserve">
+    <value>تُ</value>
+  </data>
+  <data name="arabicTāDammaTanwin" xml:space="preserve">
+    <value>تٌ</value>
+  </data>
+  <data name="arabicTāFatha" xml:space="preserve">
+    <value>تَ</value>
+  </data>
+  <data name="arabicTāFathaTanwin" xml:space="preserve">
+    <value>تً</value>
+  </data>
+  <data name="arabicTāKasra" xml:space="preserve">
+    <value>تِ</value>
+  </data>
+  <data name="arabicTāKasraTanwin" xml:space="preserve">
+    <value>تٍ</value>
+  </data>
+  <data name="arabicTāSukuun" xml:space="preserve">
+    <value>تْ</value>
+  </data>
   <data name="arabicZero" xml:space="preserve">
     <value>٠</value>
+  </data>
+  <data name="arabicZā" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāDamma" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāDammaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāFatha" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāFathaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāKasra" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāKasraTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicZāSukuun" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīm" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmDamma" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmDammaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmFatha" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmFathaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmKasra" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmKasraTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicǦīmSukuun" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎāl" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālDamma" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālDammaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālFatha" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālFathaTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālKasra" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālKasraTanwin" xml:space="preserve">
+    <value />
+  </data>
+  <data name="arabicḎālSukuun" xml:space="preserve">
+    <value />
   </data>
   <data name="arabicḤā" xml:space="preserve">
     <value />
@@ -297,23 +369,47 @@
   <data name="arabicḪāDamma" xml:space="preserve">
     <value />
   </data>
-  <data name="arabicḪāDammaSukuun" xml:space="preserve">
+  <data name="arabicḪāDammaTanwin" xml:space="preserve">
     <value />
   </data>
   <data name="arabicḪāFatha" xml:space="preserve">
     <value />
   </data>
-  <data name="arabicḪāFathaSukuum" xml:space="preserve">
+  <data name="arabicḪāFathaTanwin" xml:space="preserve">
     <value />
   </data>
   <data name="arabicḪāKasra" xml:space="preserve">
     <value />
   </data>
-  <data name="arabicḪāKasraSukuun" xml:space="preserve">
+  <data name="arabicḪāKasraTanwin" xml:space="preserve">
     <value />
   </data>
   <data name="arabicḪāSukuun" xml:space="preserve">
     <value />
+  </data>
+  <data name="arabicṮā" xml:space="preserve">
+    <value>ث</value>
+  </data>
+  <data name="arabicṮāDamma" xml:space="preserve">
+    <value>ثُ</value>
+  </data>
+  <data name="arabicṮāDammaTanwin" xml:space="preserve">
+    <value>ثٌ</value>
+  </data>
+  <data name="arabicṮāFatha" xml:space="preserve">
+    <value>ثَ</value>
+  </data>
+  <data name="arabicṮāFathaTanwin" xml:space="preserve">
+    <value>ثً</value>
+  </data>
+  <data name="arabicṮāKasra" xml:space="preserve">
+    <value>ثِ</value>
+  </data>
+  <data name="arabicṮāKasraTanwin" xml:space="preserve">
+    <value>ثٍ</value>
+  </data>
+  <data name="arabicṮāSukuun" xml:space="preserve">
+    <value>ثْ</value>
   </data>
   <data name="doubleSpace" xml:space="preserve">
     <value>  </value>

@@ -63,72 +63,72 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ب ähnelt.
         /// </summary>
-        internal static string arabicBa {
+        internal static string arabicBā {
             get {
-                return ResourceManager.GetString("arabicBa", resourceCulture);
+                return ResourceManager.GetString("arabicBā", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بُ ähnelt.
         /// </summary>
-        internal static string arabicBaDamma {
+        internal static string arabicBāDamma {
             get {
-                return ResourceManager.GetString("arabicBaDamma", resourceCulture);
+                return ResourceManager.GetString("arabicBāDamma", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بٌ ähnelt.
         /// </summary>
-        internal static string arabicBaDammaTanwin {
+        internal static string arabicBāDammaTanwin {
             get {
-                return ResourceManager.GetString("arabicBaDammaTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicBāDammaTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بَ ähnelt.
         /// </summary>
-        internal static string arabicBaFatha {
+        internal static string arabicBāFatha {
             get {
-                return ResourceManager.GetString("arabicBaFatha", resourceCulture);
+                return ResourceManager.GetString("arabicBāFatha", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بً ähnelt.
         /// </summary>
-        internal static string arabicBaFathaTanwin {
+        internal static string arabicBāFathaTanwin {
             get {
-                return ResourceManager.GetString("arabicBaFathaTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicBāFathaTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بِ ähnelt.
         /// </summary>
-        internal static string arabicBaKasra {
+        internal static string arabicBāKasra {
             get {
-                return ResourceManager.GetString("arabicBaKasra", resourceCulture);
+                return ResourceManager.GetString("arabicBāKasra", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بٍ ähnelt.
         /// </summary>
-        internal static string arabicBaKasraTanwin {
+        internal static string arabicBāKasraTanwin {
             get {
-                return ResourceManager.GetString("arabicBaKasraTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicBāKasraTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die بْ ähnelt.
         /// </summary>
-        internal static string arabicBaSukuun {
+        internal static string arabicBāSukuun {
             get {
-                return ResourceManager.GetString("arabicBaSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicBāSukuun", resourceCulture);
             }
         }
         
@@ -144,6 +144,15 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
+        internal static string arabicḎāl {
+            get {
+                return ResourceManager.GetString("arabicḎāl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
         internal static string arabicDālDamma {
             get {
                 return ResourceManager.GetString("arabicDālDamma", resourceCulture);
@@ -153,9 +162,27 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicDālDammaSukuun {
+        internal static string arabicḎālDamma {
             get {
-                return ResourceManager.GetString("arabicDālDammaSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicḎālDamma", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicDālDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicDālDammaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicḎālDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicḎālDammaTanwin", resourceCulture);
             }
         }
         
@@ -171,9 +198,27 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicDālFathaSukuun {
+        internal static string arabicḎālFatha {
             get {
-                return ResourceManager.GetString("arabicDālFathaSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicḎālFatha", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicDālFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicDālFathaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicḎālFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicḎālFathaTanwin", resourceCulture);
             }
         }
         
@@ -189,9 +234,27 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicDālKasraSukuun {
+        internal static string arabicḎālKasra {
             get {
-                return ResourceManager.GetString("arabicDālKasraSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicḎālKasra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicDālKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicDālKasraTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicḎālKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicḎālKasraTanwin", resourceCulture);
             }
         }
         
@@ -207,72 +270,9 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicDschim {
+        internal static string arabicḎālSukuun {
             get {
-                return ResourceManager.GetString("arabicDschim", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimDamma {
-            get {
-                return ResourceManager.GetString("arabicDschimDamma", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimDammaTanwin {
-            get {
-                return ResourceManager.GetString("arabicDschimDammaTanwin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimFatha {
-            get {
-                return ResourceManager.GetString("arabicDschimFatha", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimFathaTanwin {
-            get {
-                return ResourceManager.GetString("arabicDschimFathaTanwin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimKasra {
-            get {
-                return ResourceManager.GetString("arabicDschimKasra", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimKasraTanwin {
-            get {
-                return ResourceManager.GetString("arabicDschimKasraTanwin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        /// </summary>
-        internal static string arabicDschimSukuun {
-            get {
-                return ResourceManager.GetString("arabicDschimSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicḎālSukuun", resourceCulture);
             }
         }
         
@@ -300,6 +300,78 @@ namespace ArabicTranscriptionsMetro.Properties {
         internal static string arabicFour {
             get {
                 return ResourceManager.GetString("arabicFour", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīm {
+            get {
+                return ResourceManager.GetString("arabicǦīm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmDamma {
+            get {
+                return ResourceManager.GetString("arabicǦīmDamma", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicǦīmDammaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmFatha {
+            get {
+                return ResourceManager.GetString("arabicǦīmFatha", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicǦīmFathaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmKasra {
+            get {
+                return ResourceManager.GetString("arabicǦīmKasra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicǦīmKasraTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicǦīmSukuun {
+            get {
+                return ResourceManager.GetString("arabicǦīmSukuun", resourceCulture);
             }
         }
         
@@ -342,18 +414,18 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicḪāDammaSukuun {
+        internal static string arabicḤāDammaTanwin {
             get {
-                return ResourceManager.GetString("arabicḪāDammaSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicḤāDammaTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicḤāDammaTanwin {
+        internal static string arabicḪāDammaTanwin {
             get {
-                return ResourceManager.GetString("arabicḤāDammaTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicḪāDammaTanwin", resourceCulture);
             }
         }
         
@@ -378,18 +450,18 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicḪāFathaSukuum {
+        internal static string arabicḤāFathaTanwin {
             get {
-                return ResourceManager.GetString("arabicḪāFathaSukuum", resourceCulture);
+                return ResourceManager.GetString("arabicḤāFathaTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicḤāFathaTanwin {
+        internal static string arabicḪāFathaTanwin {
             get {
-                return ResourceManager.GetString("arabicḤāFathaTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicḪāFathaTanwin", resourceCulture);
             }
         }
         
@@ -414,18 +486,18 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicḪāKasraSukuun {
+        internal static string arabicḤāKasraTanwin {
             get {
-                return ResourceManager.GetString("arabicḪāKasraSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicḤāKasraTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string arabicḤāKasraTanwin {
+        internal static string arabicḪāKasraTanwin {
             get {
-                return ResourceManager.GetString("arabicḤāKasraTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicḪāKasraTanwin", resourceCulture);
             }
         }
         
@@ -466,11 +538,155 @@ namespace ArabicTranscriptionsMetro.Properties {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRā {
+            get {
+                return ResourceManager.GetString("arabicRā", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāDamma {
+            get {
+                return ResourceManager.GetString("arabicRāDamma", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicRāDammaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāFatha {
+            get {
+                return ResourceManager.GetString("arabicRāFatha", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicRāFathaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāKasra {
+            get {
+                return ResourceManager.GetString("arabicRāKasra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicRāKasraTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicRāSukuun {
+            get {
+                return ResourceManager.GetString("arabicRāSukuun", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ٧ ähnelt.
         /// </summary>
         internal static string arabicSeven {
             get {
                 return ResourceManager.GetString("arabicSeven", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīn {
+            get {
+                return ResourceManager.GetString("arabicSīn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnDamma {
+            get {
+                return ResourceManager.GetString("arabicSīnDamma", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicSīnDammaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnFatha {
+            get {
+                return ResourceManager.GetString("arabicSīnFatha", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicSīnFathaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnKasra {
+            get {
+                return ResourceManager.GetString("arabicSīnKasra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicSīnKasraTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicSīnSukuun {
+            get {
+                return ResourceManager.GetString("arabicSīnSukuun", resourceCulture);
             }
         }
         
@@ -486,144 +702,144 @@ namespace ArabicTranscriptionsMetro.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ت ähnelt.
         /// </summary>
-        internal static string arabicTa {
+        internal static string arabicTā {
             get {
-                return ResourceManager.GetString("arabicTa", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تُ ähnelt.
-        /// </summary>
-        internal static string arabicTaDamma {
-            get {
-                return ResourceManager.GetString("arabicTaDamma", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تٌ ähnelt.
-        /// </summary>
-        internal static string arabicTaDammaTanwin {
-            get {
-                return ResourceManager.GetString("arabicTaDammaTanwin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تَ ähnelt.
-        /// </summary>
-        internal static string arabicTaFatha {
-            get {
-                return ResourceManager.GetString("arabicTaFatha", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تً ähnelt.
-        /// </summary>
-        internal static string arabicTaFathaTanwin {
-            get {
-                return ResourceManager.GetString("arabicTaFathaTanwin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تِ ähnelt.
-        /// </summary>
-        internal static string arabicTaKasra {
-            get {
-                return ResourceManager.GetString("arabicTaKasra", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تٍ ähnelt.
-        /// </summary>
-        internal static string arabicTaKasraTanwin {
-            get {
-                return ResourceManager.GetString("arabicTaKasraTanwin", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die تْ ähnelt.
-        /// </summary>
-        internal static string arabicTaSukuun {
-            get {
-                return ResourceManager.GetString("arabicTaSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicTā", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ث ähnelt.
         /// </summary>
-        internal static string arabicTha {
+        internal static string arabicṮā {
             get {
-                return ResourceManager.GetString("arabicTha", resourceCulture);
+                return ResourceManager.GetString("arabicṮā", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تُ ähnelt.
+        /// </summary>
+        internal static string arabicTāDamma {
+            get {
+                return ResourceManager.GetString("arabicTāDamma", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثُ ähnelt.
         /// </summary>
-        internal static string arabicThaDamma {
+        internal static string arabicṮāDamma {
             get {
-                return ResourceManager.GetString("arabicThaDamma", resourceCulture);
+                return ResourceManager.GetString("arabicṮāDamma", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تٌ ähnelt.
+        /// </summary>
+        internal static string arabicTāDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicTāDammaTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثٌ ähnelt.
         /// </summary>
-        internal static string arabicThaDammaTanwin {
+        internal static string arabicṮāDammaTanwin {
             get {
-                return ResourceManager.GetString("arabicThaDammaTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicṮāDammaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تَ ähnelt.
+        /// </summary>
+        internal static string arabicTāFatha {
+            get {
+                return ResourceManager.GetString("arabicTāFatha", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثَ ähnelt.
         /// </summary>
-        internal static string arabicThaFatha {
+        internal static string arabicṮāFatha {
             get {
-                return ResourceManager.GetString("arabicThaFatha", resourceCulture);
+                return ResourceManager.GetString("arabicṮāFatha", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تً ähnelt.
+        /// </summary>
+        internal static string arabicTāFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicTāFathaTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثً ähnelt.
         /// </summary>
-        internal static string arabicThaFathaTanwin {
+        internal static string arabicṮāFathaTanwin {
             get {
-                return ResourceManager.GetString("arabicThaFathaTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicṮāFathaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تِ ähnelt.
+        /// </summary>
+        internal static string arabicTāKasra {
+            get {
+                return ResourceManager.GetString("arabicTāKasra", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثِ ähnelt.
         /// </summary>
-        internal static string arabicThaKasra {
+        internal static string arabicṮāKasra {
             get {
-                return ResourceManager.GetString("arabicThaKasra", resourceCulture);
+                return ResourceManager.GetString("arabicṮāKasra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تٍ ähnelt.
+        /// </summary>
+        internal static string arabicTāKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicTāKasraTanwin", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثٍ ähnelt.
         /// </summary>
-        internal static string arabicThaKasraTanwin {
+        internal static string arabicṮāKasraTanwin {
             get {
-                return ResourceManager.GetString("arabicThaKasraTanwin", resourceCulture);
+                return ResourceManager.GetString("arabicṮāKasraTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die تْ ähnelt.
+        /// </summary>
+        internal static string arabicTāSukuun {
+            get {
+                return ResourceManager.GetString("arabicTāSukuun", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die ثْ ähnelt.
         /// </summary>
-        internal static string arabicThaSukuun {
+        internal static string arabicṮāSukuun {
             get {
-                return ResourceManager.GetString("arabicThaSukuun", resourceCulture);
+                return ResourceManager.GetString("arabicṮāSukuun", resourceCulture);
             }
         }
         
@@ -642,6 +858,78 @@ namespace ArabicTranscriptionsMetro.Properties {
         internal static string arabicTwo {
             get {
                 return ResourceManager.GetString("arabicTwo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZā {
+            get {
+                return ResourceManager.GetString("arabicZā", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāDamma {
+            get {
+                return ResourceManager.GetString("arabicZāDamma", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāDammaTanwin {
+            get {
+                return ResourceManager.GetString("arabicZāDammaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāFatha {
+            get {
+                return ResourceManager.GetString("arabicZāFatha", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāFathaTanwin {
+            get {
+                return ResourceManager.GetString("arabicZāFathaTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāKasra {
+            get {
+                return ResourceManager.GetString("arabicZāKasra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāKasraTanwin {
+            get {
+                return ResourceManager.GetString("arabicZāKasraTanwin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+        /// </summary>
+        internal static string arabicZāSukuun {
+            get {
+                return ResourceManager.GetString("arabicZāSukuun", resourceCulture);
             }
         }
         
